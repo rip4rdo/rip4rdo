@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻Felipe Rip4rdo</h1>
-<h3 align="center">Um Estudante Backend e DevOPS</h3>
+<h3 align="center">Estudante Backend e DevOPS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rip4rdo&label=Profile%20views&color=0e75b6&style=flat" alt="rip4rdo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rip4rdo&label=Profile%20views&color=0e75b6&style=flat" alt="rip4rdo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +28,5 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
-
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rip4rdo&" alt="rip4rdo" /></p>
